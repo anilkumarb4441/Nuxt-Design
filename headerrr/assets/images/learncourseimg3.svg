@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="40px" viewBox="0 0 57 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon-self-paced-course-large</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IDEO-U-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-HOMEPAGE" transform="translate(-1123.000000, -914.000000)" stroke="#000000">
+            <g id="What-We-Offer-Section" transform="translate(-1.000000, 736.000000)">
+                <g id="Icon/Self-paced/56x40" transform="translate(1124.000000, 178.000000)">
+                    <g id="Group-5">
+                        <path d="M17,2 L54.9994291,2 C55.5520291,2 56,2.44771525 56,3 L56,25 C56,25.5522847 55.5520291,26 54.9994291,26 L25.0000613,26" id="Shape" stroke-width="2" stroke-linecap="round"></path>
+                        <path d="M12.9995407,15 C6.37233475,15.0002483 1,20.3727361 1,27 L1,39 L25,39 L25.0000004,27.0009187 C24.9939138,20.37567 19.6247313,15.0063345 12.9995407,15 Z" id="Path" stroke-width="2"></path>
+                        <circle id="Oval" stroke-width="2" cx="13" cy="8" r="7"></circle>
+                        <path d="M32,26 L32,32" id="Line" stroke-width="2"></path>
+                        <path d="M40,26 L40,32" id="Line-Copy" stroke-width="2"></path>
+                        <rect id="Rectangle-Copy-5" stroke-width="2" x="29" y="32" width="14" height="4" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
