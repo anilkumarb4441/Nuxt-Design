@@ -2,7 +2,7 @@
     <div>
         <div class="col-lg-10 mx-auto cart-page" >
         <h1 class="cart-head mb-4">Your Cart </h1>
-        <h5> I made some Changes</h5>
+        <h5> I made push and pull</h5>
         <h6 class="cartBack"><a href="/" class="cartBack"><i class="fas fa-arrow-left"></i> Back to shopping</a></h6>
         </div>
     </div>
